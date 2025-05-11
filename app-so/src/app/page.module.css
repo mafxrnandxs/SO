@@ -1,0 +1,8 @@
+.background {
+  background-image: url('/public/20250510_2247_Cores\ para\ Sistemas\ Operacionais_simple_compose_01jtygb76yfaftcf50j0ajnj92.png para\ Sistemas\ Operacionais_simple_compose_01jtygb76yfaftcf50j0ajnj92.png'); /* coloque sua imagem em /public/images */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
