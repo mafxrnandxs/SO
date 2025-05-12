@@ -10,7 +10,7 @@ export default function BsdSection() {
         <div className={styles.wrapper}>
           <div className={styles.imageBox}>
             <Image
-              src="/BSD-System.png"
+              src="/4.3_BSD_UWisc_VAX_Emulation_Login.png"
               alt="Sistema BSD"
               width={350}
               height={350}
